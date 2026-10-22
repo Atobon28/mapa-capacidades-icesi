@@ -1,0 +1,116 @@
+[
+  {
+    "id": 0,
+    "dimension": "Ética",
+    "name": "Reconocimiento",
+    "type": "Disposición",
+    "items": [
+      "Valorar la singularidad de las personas.",
+      "Escuchar y comprender experiencias distintas a las propias.",
+      "Construir relaciones basadas en la reciprocidad.",
+      "Evitar la invisibilización y la exclusión."
+    ]
+  },
+  {
+    "id": 1,
+    "dimension": "Ética",
+    "name": "Dignidad",
+    "type": "Disposición",
+    "items": [
+      "Reconocer el valor intrínseco de todas las personas.",
+      "Desarrollar sensibilidad frente a la vulnerabilidad.",
+      "Rechazar formas de humillación, discriminación o degradación.",
+      "Promover el cuidado de sí y de otros.",
+      "Comprender la interdependencia de la vida humana y no humana."
+    ]
+  },
+  {
+    "id": 2,
+    "dimension": "Ética",
+    "name": "Respeto",
+    "type": "Disposición",
+    "items": [
+      "Tratar a todas las personas como iguales en dignidad y valor moral.",
+      "Actuar con consideración hacia otros.",
+      "Rechazar jerarquías basadas en género, etnia, orientación sexual, clase social o posición política."
+    ]
+  },
+  {
+    "id": 3,
+    "dimension": "Social y política",
+    "name": "Diferencia",
+    "type": "Habilidad",
+    "items": [
+      "Identificar prejuicios y estereotipos.",
+      "Comprender la diversidad de experiencias e identidades.",
+      "Analizar críticamente mecanismos de exclusión.",
+      "Interpretar problemas sociales desde múltiples perspectivas.",
+      "Cuestionar narrativas que naturalizan la desigualdad."
+    ]
+  },
+  {
+    "id": 4,
+    "dimension": "Social y política",
+    "name": "Convivencia",
+    "type": "Habilidad y disposición",
+    "items": [
+      "Resolver conflictos de manera pacífica.",
+      "Construir acuerdos.",
+      "Cooperar con otros.",
+      "Abordar desacuerdos sin recurrir a la violencia.",
+      "Fortalecer vínculos de confianza y solidaridad.",
+      "Construir proyectos comunes en contextos de pluralismo."
+    ]
+  },
+  {
+    "id": 5,
+    "dimension": "Social y política",
+    "name": "Interculturalidad y Diálogo de saberes",
+    "type": "Habilidad y disposición",
+    "items": [
+      "Valorar la diversidad cultural.",
+      "Interactuar respetuosamente con grupos diversos.",
+      "Promover inclusión y equidad.",
+      "Evitar la imposición de formas de vida y saberes absolutos sobre otros.",
+      "Reconocer la legitimidad de distintos saberes y formas de vida.",
+      "Construir aprendizajes colectivos."
+    ]
+  },
+  {
+    "id": 6,
+    "dimension": "Formativa",
+    "name": "Ciudadanía",
+    "type": "Habilidad compleja",
+    "items": [
+      "Analizar relaciones entre derechos, deberes y justicia social.",
+      "Participar en escenarios democráticos.",
+      "Deliberar sobre asuntos colectivos.",
+      "Tomar posiciones informadas y argumentadas frente a problemas públicos.",
+      "Asumir responsabilidades ciudadanas."
+    ]
+  },
+  {
+    "id": 7,
+    "dimension": "Formativa",
+    "name": "Autonomía",
+    "type": "Capacidad compleja",
+    "items": [
+      "Construir criterios propios.",
+      "Asumir responsabilidad por las propias acciones.",
+      "Liderar iniciativas orientadas al bien común."
+    ]
+  },
+  {
+    "id": 8,
+    "dimension": "Formativa",
+    "name": "Socioemocional",
+    "type": "Habilidad compleja y disposición",
+    "items": [
+      "Reconocer emociones propias y ajenas.",
+      "Desarrollar empatía.",
+      "Regular emociones en situaciones de conflicto.",
+      "Practicar el cuidado de sí y del otro.",
+      "Construir relaciones basadas en la confianza y el respeto."
+    ]
+  }
+]
