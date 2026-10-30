@@ -31,3 +31,15 @@ No contiene documentos originales de investigación ni datos de participantes. L
 ## Validación pendiente
 
 Pruebas con profesores, revisión institucional del uso de marca y futura conexión del asistente a fuentes verificadas. Esta versión no evalúa ni certifica capacidades.
+
+## Actualización por revisión del equipo
+
+- Introducción «Sobre este mapa» y «Para comprender el mapa» con la redacción sugerida en los comentarios.
+- Identificación de la Decanatura de Innovación Educativa y Fortalecimiento del PEI (nombre en el manual institucional).
+- Ruta visible de cinco pasos, con consulta libre del mapa.
+- Descripción del curso, disciplina, estudiantes, propósitos, actividad e intención de fortalecimiento.
+- Enlace explícito entre las selecciones del mapa y Mi selección, con confirmación de guardado.
+- Reflexión por aprendizaje con pregunta del eje, relación, evidencia y ajuste propuesto.
+- Resumen editable y exportable en texto o impresión/PDF. Se señalan los campos pendientes sin convertirlos en una evaluación.
+- Contexto del curso incluido en exportaciones; el estado anterior se conserva mediante la misma clave de almacenamiento.
+- Explicación de la función futura de IA y aviso visible de que la demostración no analiza ni transmite respuestas.
